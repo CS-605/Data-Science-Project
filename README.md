@@ -1,1 +1,1 @@
-Our project is of analysis on Covid-19 Dataset
+Our project is on analysis of Covid-19 Dataset
