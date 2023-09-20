@@ -1,5 +1,12 @@
-This is the folder for the MemberShip Task
-Directory is:
-Folder Name: Annem Sony contains membershiptasks.ipynb file  for membership task and also has input data name emp.csv file
-It also has an enrichment data description under the name of employement_des.pdf
+Folder Name: Annem Sony
+Files:
+Employment_des.pdf: Details about the Enrichment Dataset
+Memebershiptasks.ipynb: Python file contains all the tasks
+alhlcn204.xlsx: Intial excel dataset
+Emp.csv: Converted excel to csv formate
+Stage_I_task_2.pdf: Contains pdf format of task2
+
+
+
+
 
