@@ -7,7 +7,7 @@ This folder contains of two sub folders:
         3. output Datasets
         4. Covid Data Description File
 2. Member Tasks
-    2. Stage 1
+    1. Stage 1
             a. KeerthiReddy
             b. Supriya
             c. Annem Sony
